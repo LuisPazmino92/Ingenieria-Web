@@ -1,0 +1,98 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: #f1f1f1;
+	font-family: arial;
+}
+header.cabecera{
+	color: #000;
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;	
+}
+#nom{
+	margin: 1em auto;
+	width: 45%;
+	display: inline-block;
+	background: #96B32C;
+}
+#buscador{
+	width: 45%;
+	display: inline-block;
+	background: #96B32C;
+	margin: 0em auto;
+
+}
+nav{
+	background: #96B32C;
+	width: 87%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 1em 0em;
+}
+#imagen{
+	width: 87%;
+	background: #96B32C;
+	margin: 1em auto;
+	text-align: center;
+	padding: 5em 0em;
+	
+}
+
+.cabecera section{
+	width: 20%;
+	display: inline-block;
+	padding: 1em;
+
+}
+.cabecera form{
+	width: 70%;
+	display: inline-block;
+	text-align: right;
+}
+main{
+	color: #000;
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;	
+}
+#not1{
+	margin: 1em auto;
+	width: 45%;
+	display: inline-block;
+	background: #96B32C;
+	padding: 1.2em;
+}
+#not2{
+	margin: 1em auto;
+	width: 45%;
+	display: inline-block;
+	background: #96B32C;
+	padding: 1.2em;
+}
+aside.section{
+	width: 10%;
+	display: inline-block;
+	vertical-align: top;
+	background: #96B32C;
+}
+.t1{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+.t1 h3{
+	width: 16%;
+	background: #96B32C;
+	display: inline-block;
+	padding: 4em 1em;
+}
+footer{
+	background: #96B32C;
+	width: 85%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 0.8em;
+}
